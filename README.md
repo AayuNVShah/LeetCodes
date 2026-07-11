@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
