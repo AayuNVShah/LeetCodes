@@ -54,6 +54,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -68,9 +69,14 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AayuNVShah/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
