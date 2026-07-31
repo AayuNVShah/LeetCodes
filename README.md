@@ -38,10 +38,12 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
