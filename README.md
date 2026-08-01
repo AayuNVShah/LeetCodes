@@ -60,6 +60,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
 | [3536-maximum-product-of-two-digits](https://github.com/AayuNVShah/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
 |  |
@@ -85,4 +87,16 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
