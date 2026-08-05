@@ -44,10 +44,12 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/AayuNVShah/LeetCodes/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AayuNVShah/LeetCodes/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/AayuNVShah/LeetCodes/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AayuNVShah/LeetCodes/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
