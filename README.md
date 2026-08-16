@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AayuNVShah/LeetCodes/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3731-find-missing-elements](https://github.com/AayuNVShah/LeetCodes/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -83,6 +85,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/AayuNVShah/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
 |  |
@@ -104,8 +107,25 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AayuNVShah/LeetCodes/tree/master/3310-remove-methods-from-project) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
