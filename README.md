@@ -7,6 +7,7 @@
 | [0242-valid-anagram](https://github.com/AayuNVShah/LeetCodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AayuNVShah/LeetCodes/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AayuNVShah/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AayuNVShah/LeetCodes/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -70,6 +71,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AayuNVShah/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3731-find-missing-elements](https://github.com/AayuNVShah/LeetCodes/tree/master/3731-find-missing-elements) |
 ## Binary Search
