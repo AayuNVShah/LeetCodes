@@ -70,6 +70,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AayuNVShah/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/AayuNVShah/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
@@ -121,6 +125,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -129,5 +134,10 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
