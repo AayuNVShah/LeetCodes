@@ -74,6 +74,7 @@
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AayuNVShah/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AayuNVShah/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/AayuNVShah/LeetCodes/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@
 | [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/AayuNVShah/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AayuNVShah/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Segment Tree
 |  |
 | ------- |
