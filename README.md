@@ -14,6 +14,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/AayuNVShah/LeetCodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AayuNVShah/LeetCodes/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/AayuNVShah/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AayuNVShah/LeetCodes/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/AayuNVShah/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
@@ -123,6 +125,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AayuNVShah/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [2029-stone-game-ix](https://github.com/AayuNVShah/LeetCodes/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -142,4 +145,12 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/AayuNVShah/LeetCodes/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AayuNVShah/LeetCodes/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AayuNVShah/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
