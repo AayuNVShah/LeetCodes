@@ -9,6 +9,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AayuNVShah/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AayuNVShah/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AayuNVShah/LeetCodes/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/AayuNVShah/LeetCodes/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AayuNVShah/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/AayuNVShah/LeetCodes/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/AayuNVShah/LeetCodes/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AayuNVShah/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AayuNVShah/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/AayuNVShah/LeetCodes/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -153,4 +156,16 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AayuNVShah/LeetCodes/tree/master/0678-valid-parenthesis-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AayuNVShah/LeetCodes/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AayuNVShah/LeetCodes/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AayuNVShah/LeetCodes/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
